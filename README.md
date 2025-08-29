@@ -28,6 +28,8 @@ I'm a professional who believes in continuous learning. I began my career with a
   <img src="https://img.icons8.com/color/30/npm.png"/>
   <img src="https://img.icons8.com/material-outlined/30/github.png"/>
   <img src="https://img.icons8.com/color/30/git.png"/>
+  <img src="https://img.icons8.com/?size=30&id=J6KcaRLsTgpZ&format=png&color=000000"/>
+  <img src="https://img.icons8.com/?size=30&id=rgPSE6nAB766&format=png&color=000000"/>
   <img src="https://img.icons8.com/color/30/visual-studio-code-2019.png"/>
   <img src="https://img.icons8.com/color/30/react-native.png"/>
   <img src="https://img.icons8.com/color/30/angularjs.png"/>
