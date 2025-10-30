@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Hey, I'm Tiago Santos <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h1>
-  <h3><b>Data student and Developer</h3></p>
-</div>
+  <h3><b>Developer and Data student</h3></p>
+</div> 
 
 
 
